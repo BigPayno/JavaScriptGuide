@@ -1,0 +1,4 @@
+package.json ---> pom.xml
+node_modules ---> build
+build ---> application.yml
+npm + webpack ---> maven
